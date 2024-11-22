@@ -6,9 +6,7 @@
 My project fine-tunes a pre-trained BART model to improve Tagalog-to-English machine translation, with a focus on pronoun accuracy. 
 
 ## Requirements
-### Python Environment
-
-Ensure you have the following libraries installed in your environment:
+ The following libraries needed:
 - `pandas`
 - `transformers`
 - `torch`
