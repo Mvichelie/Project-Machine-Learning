@@ -13,10 +13,8 @@ My project fine-tunes a pre-trained BART model to improve Tagalog-to-English mac
 - `sacrebleu`
 - `scikit-learn`
 - `jupyterlab`
-You can install the libraries with bash
-```bash
-pip install pandas transformers torch sacrebleu scikit-learn jupyterlab
-Or import in the jupyter notebook MLProj 
+
+he jupyter notebook MLProj 
 Dataset Format
 The dataset (train1.csv) should contain the following columns:
 Tagalog Sentences (example below):
