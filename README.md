@@ -13,8 +13,7 @@ The following libraries/packages needed for this project (cn also be imported in
 - sacrebleu
 - scikit-learn
 - jupyterlab
-You can install the libraries with bash
-```bash
+
 Dataset Format:
 The dataset (train1.csv) contains the following columns:
 Tagalog Sentences (example below):
